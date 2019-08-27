@@ -5,3 +5,8 @@ class CreateTaxis < ActiveRecord::Migration
     end
   end
 end
+
+
+
+
+
